@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "277781236923",
+    "project_id": "klientx-app",
+    "storage_bucket": "klientx-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277781236923:android:d30d1e689af08b274c6d9e",
+        "android_client_info": {
+          "package_name": "com.aagama.klientx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277781236923-e45bet91qb45me368mejhvhi6477mkpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aagama.klientx",
+            "certificate_hash": "90d0b787daafdfef01308e1834830a7e515f86fd"
+          }
+        },
+        {
+          "client_id": "277781236923-npm4qqvoupr1dt1176le5fvidkg8p3mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aagama.klientx",
+            "certificate_hash": "7cdc2f4c5a28874e7f27b5594eb969e8f8cbae62"
+          }
+        },
+        {
+          "client_id": "277781236923-o44pdvitnqcuii6lskb17549lu364me7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aagama.klientx",
+            "certificate_hash": "5fe92a7a736a3f8c2494c71d850b2b1ff5204f25"
+          }
+        },
+        {
+          "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1EspLJRJjDo-40r-fvvniM34emLocVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277781236923-1bcebph876g1v1jcfra8kl1j6lualsgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aagama.klientx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277781236923:android:38364f3c2eb519fe4c6d9e",
+        "android_client_info": {
+          "package_name": "com.aagama.klientxadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1EspLJRJjDo-40r-fvvniM34emLocVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277781236923-1bcebph876g1v1jcfra8kl1j6lualsgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aagama.klientx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277781236923:android:22bffd42fd3a418a4c6d9e",
+        "android_client_info": {
+          "package_name": "com.klientx.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1EspLJRJjDo-40r-fvvniM34emLocVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277781236923-ae070ghabdcvo08ibvv8kji9sdg0cb2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277781236923-1bcebph876g1v1jcfra8kl1j6lualsgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aagama.klientx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
